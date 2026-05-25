@@ -1,2 +1,3 @@
 Subhadeep Dhar
 Kolkata
+Skills: Python, SQL
